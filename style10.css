@@ -1,0 +1,89 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.row{
+	margin-left: 0;
+	margin-right: 0;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+ul{
+	list-style: none;
+}
+
+.btn0{
+	border: none;
+	outline: none;
+	height: 35px;
+	width: 100px;
+	border: 2px solid black;
+	font-weight: 400;
+	border-radius: 5px;
+}
+/*nav*/
+.navbar-expand-lg{
+	background: darkblue;
+	color: white;
+	
+}
+.btn1{
+	border: none;
+	height: 30px;
+	width: 80px;
+	outline: 1px solid white;
+	background: darkblue;
+	color: white;
+	border-radius: 5px;
+	font-weight: 500;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.Search{
+	border: none;
+	outline: none;
+	height: 30px;
+	width: 200px;	
+	border-radius:5px;
+	margin-left: 2px;
+}
+/*card*/
+.card1{
+	background-image: url(my/img/watch.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+
+}
+.card2{
+	background-image: url(my/img/redshoes.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+}
+.card3{
+	background-image: url(my/img/bag.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+}
+/*shop*/
+.shop{
+	background-image: url(my/img/shoping.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+/*product*/
+b{
+	letter-spacing: 2px;
+	font-size: 25px;
+	padding-left: 15px;
+}
+/*footer*/
+.footer{
+	background: blue;
+	color: white;
+}
